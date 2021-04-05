@@ -18,7 +18,7 @@
 
 - 🖌 I'm a UI/UX designer
 - ⌨️ I'm a front-end developer
-- 💻 I'm currently working (🏡) for [Norsk Global](https://norsk.global/) (🚛) as a 'Digital Media Designer'
+- 💻 I'm currently working (from 🏡) for [Norsk Global](https://norsk.global/) as a 'Digital Media Designer'
 
 <!--
 **markjohnlucas/markjohnlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
