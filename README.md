@@ -10,8 +10,6 @@
   •
 </p>
 
----
-
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello, it's nice to meet you.
 
 Hey there, I'm Mark Lucas and I'm passionate about delivering impactful solutions to peoples lives through design. I'm a self-taught designer who sometimes takes the risk and crosses the line into the open world of development.
