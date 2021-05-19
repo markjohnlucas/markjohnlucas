@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/10834045/117565435-1bf5fe80-b0a9-11eb-8a0c-fbd669b0fd55.png)
+![GitHub Header](https://user-images.githubusercontent.com/10834045/118801619-1fec0280-b899-11eb-9487-08d5198eaea0.png)
 
 <p align="center">
   •
