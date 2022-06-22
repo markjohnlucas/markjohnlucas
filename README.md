@@ -1,16 +1,18 @@
-![GitHub Header](https://user-images.githubusercontent.com/10834045/118801619-1fec0280-b899-11eb-9487-08d5198eaea0.png)
+## 👋 Hello, it's nice to meet you.
+
+![LinkedIn-header](https://user-images.githubusercontent.com/10834045/175027328-0ac0be2a-67f7-49e0-8366-3d1fc98bddf5.png)
 
 <p align="center">
   •
   <a href="http://www.mjlucas.co.uk/">Website</a>
+  •
+  <a href="https://gocenter.co.uk/">GO Center</a> 
   •
   <a href="https://www.linkedin.com/in/markjohnlucas/">LinkedIn</a> 
   •
   <a href="https://www.instagram.com/markj.lucas/">Instagram</a> 
   •
 </p>
-
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello, it's nice to meet you.
 
 Hey there, I'm Mark Lucas and I'm passionate about delivering impactful solutions to peoples lives through design. I'm a self-taught designer who sometimes takes the risk and crosses the line into the open world of development.
 
