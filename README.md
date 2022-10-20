@@ -1,6 +1,6 @@
 ## 👋 Hello, it's nice to meet you.
 
-![LinkedIn-header](https://user-images.githubusercontent.com/10834045/175027328-0ac0be2a-67f7-49e0-8366-3d1fc98bddf5.png)
+![LinkedIn-header](https://user-images.githubusercontent.com/10834045/196927642-7e3161df-e3c8-457b-b749-f4662972a4b6.png)
 
 <p align="center">
   •
