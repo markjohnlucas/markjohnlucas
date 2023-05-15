@@ -21,7 +21,7 @@ Hey there, I'm Mark Lucas and I'm passionate about delivering impactful solution
 - 🖌 UI/UX designer.
 - ⌨️ Front-end ~~developer~~ tinkerer.
 - 💻 Currently working from 🏡 for [Norsk Global](https://norsk.global/) as a 'Digital Product Designer'.
-- ⚡️ Creator of [GO Center](http://www.gocenter.co.uk) <~ a passion project
+- ⚡️ Creator of [GO Center](http://www.gocenter.co.uk) <~ passion project.
 - 👨‍💻 Always working on multiple projects.
 
 <!--
