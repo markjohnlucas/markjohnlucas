@@ -19,10 +19,10 @@ Hey there, I'm Mark Lucas and I'm passionate about delivering impactful solution
 ## Here are some things about me:
 
 - 🖌 UI/UX designer.
-- ⌨️ Front-end developer.
-- 💻 Currently working from 🏡 for [Norsk Global](https://norsk.global/) as a 'Digital Media Designer'.
-- ⚡️ Creator of [GO Center](http://www.gocenter.co.uk)
-- 👨‍💻 Working on multiple projects.
+- ⌨️ Front-end ~~developer~~ tinkerer.
+- 💻 Currently working from 🏡 for [Norsk Global](https://norsk.global/) as a 'Digital Product Designer'.
+- ⚡️ Creator of [GO Center](http://www.gocenter.co.uk) <~ a passion project
+- 👨‍💻 Always working on multiple projects.
 
 <!--
 **markjohnlucas/markjohnlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
